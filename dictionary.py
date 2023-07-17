@@ -75,3 +75,9 @@ supermarket =  {
 print(total_price(supermarket))
 """
 
+"""
+Create a virtual supermarket. For every article there is a price per article and a quantity, i.e. the stock. 
+(Hint: you can use the one from the previous exercise!)
+Create shopping lists for customers. The shopping lists contain articles plus the quantity.
+The customers fill their carts, one after the other. Check if enough goods are available! Create a receipt for each customer.
+"""
