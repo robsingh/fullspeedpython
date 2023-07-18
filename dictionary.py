@@ -81,3 +81,4 @@ Create a virtual supermarket. For every article there is a price per article and
 Create shopping lists for customers. The shopping lists contain articles plus the quantity.
 The customers fill their carts, one after the other. Check if enough goods are available! Create a receipt for each customer.
 """
+"""check"""
